@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devkev0815
 - 👀 I’m interested in Webentwicklung
-- 🌱 I’m currently learning HTML, PHP, JavaScript
+- 🌱 I’m currently learning HTML, CSS, SASS, SCSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
