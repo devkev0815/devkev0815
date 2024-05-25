@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @devkev0815
 - 👀 I’m interested in Webentwicklung
 - 🌱 I’m currently learning HTML, CSS, PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me cora-planet.de
 
 <!---
 SASS, SCSS, JavaScript, React
